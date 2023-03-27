@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply For A Loan</name>
+   <tag></tag>
+   <elementGuidId>2dff2332-7fdd-467c-acd5-5bdfcd298167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='applyButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#applyButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c97fa2c6-b836-42a9-a8fc-1146cb1b0eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn  btn-blue-outline btn-xl</value>
+      <webElementGuid>57a32bcd-db4b-44a2-b75b-757cdf589bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>applyButton</value>
+      <webElementGuid>45373772-55b1-4b43-87fa-d284915783e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>90096e31-b3f6-4216-a540-4bba8b8baab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>75919e11-6ef0-4168-bfc8-24f15f4d3590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply For A Loan</value>
+      <webElementGuid>7e8cb9f3-ac9c-4fbe-bd7d-d4ec41b6ae43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/body[1]/div[@class=&quot;container content&quot;]/app-loans[1]/div[@class=&quot;jumbotron jumbotron-fluid shadow-sm bg-white loan-container&quot;]/div[@class=&quot;text-container text-center&quot;]/div[@class=&quot;form-button&quot;]/div[@class=&quot;btn-group&quot;]/button[@id=&quot;applyButton&quot;]</value>
+      <webElementGuid>91e45d72-60d6-4a90-904b-55e4e0fee2ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='applyButton']</value>
+      <webElementGuid>4b261d50-a7ac-494b-a6b1-13435da49cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financing for what ever life throws at you!'])[1]/following::button[1]</value>
+      <webElementGuid>374e5110-c283-4ab4-8f63-e162987c42ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::button[1]</value>
+      <webElementGuid>d9f587a4-e5c0-4a99-923b-3039aca01c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already Have A Loan?'])[1]/preceding::button[1]</value>
+      <webElementGuid>cd1577fe-7dc9-4e95-b389-07b711b71143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Out Our New Loan Interface'])[1]/preceding::button[2]</value>
+      <webElementGuid>b0d74512-3a0e-4b7c-befd-783042d42693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply For A Loan']/parent::*</value>
+      <webElementGuid>f6383dc5-ce4d-4cc6-8efd-9a8ff8e90883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>66f9a348-35e3-4cf7-ab87-2cae7766d426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'applyButton' and @type = 'submit' and (text() = 'Apply For A Loan' or . = 'Apply For A Loan')]</value>
+      <webElementGuid>f4f2bd50-8858-4f87-a354-bc5ef6b32cba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
